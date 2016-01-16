@@ -1,0 +1,28 @@
+{
+  "name": "kpop",
+  "version": "0.0.0",
+  "description": "Korean romanization utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronO/kpop.git"
+  },
+  "keywords": [
+    "korean",
+    "hangul",
+    "romanization",
+    "transliteration",
+    "pinyin",
+    "korea",
+    "kpop"
+  ],
+  "author": "Aaron O'Mullan <aaron.omullan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronO/kpop/issues"
+  },
+  "homepage": "https://github.com/AaronO/kpop#readme"
+}
