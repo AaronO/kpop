@@ -1,6 +1,6 @@
 {
   "name": "kpop",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Korean romanization utilities",
   "main": "index.js",
   "scripts": {
